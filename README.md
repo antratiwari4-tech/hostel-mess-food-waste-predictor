@@ -18,7 +18,7 @@ Hostel kitchens may prepare more or less food than students need. Better demand 
 ## Planned Tools
 - Python
 - Pandas and NumPy
-- Matplotlib and Seaborn
+- Matplotlib
 - Scikit-learn
 - GitHub
 
